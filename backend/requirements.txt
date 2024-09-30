@@ -1,0 +1,10 @@
+# Web scraping libraries
+beautifulsoup4
+flask
+
+transformers
+torch
+torchvision
+#llama.cpp
+llama-cpp-python
+pip install "psycopg[binary]"
