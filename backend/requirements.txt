@@ -7,4 +7,9 @@ torch
 torchvision
 #llama.cpp
 llama-cpp-python
-pip install "psycopg[binary]"
+# pip install "psycopg[binary]"
+sqlalchemy
+pgvector
+transformers
+sentence-transformers
+umap-learn
